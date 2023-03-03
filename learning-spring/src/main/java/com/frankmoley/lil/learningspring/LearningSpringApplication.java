@@ -14,4 +14,11 @@ public class LearningSpringApplication {
 	{
 
 	}
+
+	void test2()
+	{
+
+	}
+
+
 }

@@ -10,7 +10,7 @@ public class LearningSpringApplication {
 		SpringApplication.run(LearningSpringApplication.class, args);
 	}
 
-	void test ()
+	void test_mainBranchChange ()
 	{
 
 	}
